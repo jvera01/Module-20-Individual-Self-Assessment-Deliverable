@@ -1,6 +1,6 @@
 #COVID-19 VAERS ANALYSIS
 
-# Self-Assessment 
+# Self-Assessment ..
 
 I was responsible for overseeing the collection, GitHub storage, and interpretation of data for a COVID-19 VAERS ANALYSIS. My duties included sifting through data points, reviewing the initial dataset. I created and organized the first version of the readme file. I was able to help chose the topic. I wrote the report outlining Covid Vaccines Adverse events using Tableau to help with the questions and selection of the Machine learning to predict life-threatening events for people over the age of 60.  
 
